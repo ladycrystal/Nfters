@@ -2,7 +2,7 @@
 This is the landing page UI for the NFT marketplace. Built with HTML ,CSS and JavaScript
 
 Details
-* Functional filtering by categoties
+* Functional filtering by categories
 * Responsive design 
 * DOM manipulations 
 * Sass styling
