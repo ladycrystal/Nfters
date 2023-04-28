@@ -9,3 +9,4 @@ Details
 * DOM manipulations 
 * Sass styling
 * [Figma](https://www.figma.com/file/zWwZjOIjiTSgBn1cIMhuEp/Jagaad-Module-3-Project) file of the task
+* [Preview](https://ladycrystal.github.io/Nfters/)
